@@ -5,7 +5,7 @@
     border-color: navy;
 
 }
-
+/* For Headers */
 .jumbotron{
     background-color: skyblue;
     color: navy;
@@ -18,11 +18,16 @@ img {
     border-radius: 50%;
 }
 
-
-article{
+/* Text on the hompage */
+article {
     color: navy;
     font-family: 'Bangers', cursive;
     font-size: 25px;
+}
+/* Text on the Portfolio page */
+figure{
+    color: navy;
+    font-size: 15px;
 }
     
 
