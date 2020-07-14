@@ -1,0 +1,30 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    border-color: navy;
+
+}
+
+.jumbotron{
+    background-color: skyblue;
+    color: navy;
+    font-weight: bold;
+    font-style: italic;
+}
+
+img {
+    max-width: 500px;
+    border-radius: 50%;
+}
+
+
+article{
+    color: navy;
+    font-family: 'Bangers', cursive;
+    font-size: 25px;
+}
+    
+
+
+  
