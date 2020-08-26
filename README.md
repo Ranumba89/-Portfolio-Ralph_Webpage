@@ -10,3 +10,7 @@ My Portfolio page contains my asperations
 
 My contacts has info so people can say whats up 
     used bootstrap 
+
+https://tajohnsonn.github.io/5StarRecipes/
+
+file:///Users/ralphanumba/Desktop/Homeworks/Planner-3-000/index.html
