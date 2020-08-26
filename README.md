@@ -13,4 +13,4 @@ My contacts has info so people can say whats up
 
 https://tajohnsonn.github.io/5StarRecipes/
 
-file:///Users/ralphanumba/Desktop/Homeworks/Planner-3-000/index.html
+https://ranumba89.github.io/Planner-3-000-/
