@@ -10,9 +10,9 @@ const Navb = () => {
             <Navbar.Toggle aria-controls="responsive-navbar-nav" />
             <Navbar.Collapse id="responsive-navbar-nav">
                 <Nav className="mr-auto">
-                    <Link to="/home">Home</Link>
-                    <Link to="/portfolio">Portfolio</Link>
-                    <Link to="/contact">Say Hi</Link>
+                    <Link style={{paddingRight:"30px", color:"white"}} to="/home">Home</Link>
+                    <Link style={{paddingRight:"30px", color:"white"}} to="/portfolio">Portfolio</Link>
+                    <Link style={{paddingRight:"30px", color:"white"}} to="/contact">Say Hi</Link>
                     {/* <NavDropdown title="Dropdown" id="collasible-nav-dropdown">
                         <NavDropdown.Item href="#action/3.1">Action</NavDropdown.Item>
                         <NavDropdown.Item href="#action/3.2">Another action</NavDropdown.Item>
